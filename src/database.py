@@ -13,8 +13,3 @@ def load_book_summaries(json_path : str):
     data = json.loads(path.read_text(encoding="utf-8"))
 
     return data
-
-if __name__ == "__main__":
-    books = load_book_summaries("../data/book_summaries.json")
-    print(f"Loaded {len(books)} books. Example titles:")
-    print(books)
