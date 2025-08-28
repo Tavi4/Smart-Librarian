@@ -1,0 +1,52 @@
+[
+  {
+    "title": "1984",
+    "summary": "In a grim totalitarian future, society is under constant surveillance by the Party and its leader, Big Brother. Winston Smith, a low-ranking worker at the Ministry of Truth, secretly questions the Party’s propaganda and dreams of freedom. His forbidden love affair with Julia becomes an act of rebellion, but the regime’s oppressive control leaves no room for dissent. The novel explores the fragility of truth, the power of ideology, and the crushing weight of political oppression.",
+    "themes": ["freedom", "truth", "control", "totalitarianism", "surveillance"]
+  },
+  {
+    "title": "The Hobbit",
+    "summary": "Bilbo Baggins, a humble hobbit who loves comfort and routine, is unexpectedly swept into an epic quest by the wizard Gandalf and thirteen dwarves. Their goal is to reclaim the dwarves’ ancestral treasure from the fearsome dragon Smaug. Along the journey, Bilbo faces trolls, goblins, and giant spiders, discovering courage and cleverness he never knew he had. The adventure changes him forever, teaching lessons of bravery, friendship, and self-discovery.",
+    "themes": ["adventure", "courage", "friendship", "fantasy", "self-discovery"]
+  },
+  {
+    "title": "The Brothers Karamazov",
+    "summary": "Dostoevsky’s philosophical masterpiece follows the lives of three very different brothers — Dmitri, Ivan, and Alyosha — and their troubled father, Fyodor. When Fyodor is murdered, suspicion falls on Dmitri, leading to a dramatic trial. Beneath the crime story lies a deep exploration of morality, faith, and free will, as the brothers wrestle with questions of God’s existence and the nature of evil. It is both a family tragedy and a profound moral investigation.",
+    "themes": ["faith", "morality", "family", "philosophy", "justice"]
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "summary": "In the racially segregated American South of the 1930s, young Scout Finch witnesses her father, lawyer Atticus Finch, defend a Black man falsely accused of assaulting a white woman. Through Scout’s eyes, we see the deep prejudice and injustice of the town, but also acts of courage and compassion. The novel is a moving portrait of moral growth, empathy, and the fight for justice. It remains a timeless call for understanding across divides.",
+    "themes": ["justice", "racism", "compassion", "coming-of-age", "morality"]
+  },
+  {
+    "title": "Pride and Prejudice",
+    "summary": "Elizabeth Bennet is an intelligent and independent young woman navigating love, reputation, and class in 19th-century England. Her initial dislike for the proud Mr. Darcy turns to admiration as misunderstandings are cleared and true character revealed. The novel critiques societal expectations, marriage as a social contract, and the folly of judging too quickly. It blends romance, wit, and social commentary in equal measure.",
+    "themes": ["love", "marriage", "social-class", "pride", "prejudice"]
+  },
+  {
+    "title": "The Great Gatsby",
+    "summary": "In the glittering Jazz Age, Nick Carraway becomes entangled in the life of his enigmatic neighbor, Jay Gatsby. Gatsby’s lavish parties conceal his desperate longing for Daisy Buchanan, a love from his past. As Nick learns more, he sees the corruption beneath the glamour and the emptiness of wealth without moral grounding. The novel is a haunting critique of the American Dream and its illusions.",
+    "themes": ["ambition", "love", "wealth", "illusion", "American Dream"]
+  },
+  {
+    "title": "Moby-Dick",
+    "summary": "Sailor Ishmael recounts his voyage aboard the Pequod, commanded by the obsessive Captain Ahab. Ahab’s singular mission is to hunt the white whale, Moby Dick, which had taken his leg in an earlier encounter. The journey becomes a perilous quest filled with storms, strange encounters, and philosophical musings on fate and nature. The novel is a meditation on obsession, revenge, and humanity’s place in the natural world.",
+    "themes": ["revenge", "nature", "obsession", "fate", "adventure"]
+  },
+  {
+    "title": "Brave New World",
+    "summary": "In a technologically engineered society, humans are bred and conditioned for specific roles, ensuring stability and conformity. Bernard Marx begins to question this shallow utopia when he meets John the Savage, who was raised outside the system. John’s struggle to adapt exposes the emptiness beneath the pleasure-driven culture. The novel explores freedom, individuality, and the dangers of sacrificing humanity for control.",
+    "themes": ["freedom", "technology", "control", "conformity", "dystopia"]
+  },
+  {
+    "title": "War and Peace",
+    "summary": "Spanning the Napoleonic Wars, Tolstoy’s epic intertwines the lives of Russian aristocrats with the sweeping tides of history. We follow characters like Pierre, Natasha, and Prince Andrei as they navigate love, loss, and personal transformation against the backdrop of war. The novel blends intimate human stories with philosophical reflections on fate and free will. It is a monumental exploration of life in all its complexity.",
+    "themes": ["war", "love", "fate", "history", "resilience"]
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "summary": "Holden Caulfield, a disenchanted teenager recently expelled from prep school, wanders New York City over several days. He grapples with feelings of alienation, disillusionment, and a desperate desire to protect innocence, especially that of his younger sister, Phoebe. The novel captures the confusion and rebellion of adolescence with raw honesty. It remains a defining portrait of teenage angst and identity struggle.",
+    "themes": ["alienation", "identity", "innocence", "coming-of-age", "rebellion"]
+  }
+]

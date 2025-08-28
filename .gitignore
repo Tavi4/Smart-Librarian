@@ -1,0 +1,39 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.log
+
+# Virtual environments
+.env/
+.venv/
+venv/
+ENV/
+env.bak/
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+
+# Jupyter / IPython
+.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Local data and embeddings
+data/embeddings/
+*.sqlite3
+
+# Environment / secrets
+.env
+*.key
+*.secret
